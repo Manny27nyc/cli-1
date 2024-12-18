@@ -20,7 +20,7 @@ require (
 	github.com/tj/assert v0.0.3
 	github.com/urfave/cli/v2 v2.3.0
 	golang.org/x/net v0.0.0-20201021035429-f5854403a974 // indirect
-	golang.org/x/sys v0.0.0-20210331175145-43e1dd70ce54
+	golang.org/x/sys v0.1.0
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/src-d/go-git.v4 v4.13.1
 )
